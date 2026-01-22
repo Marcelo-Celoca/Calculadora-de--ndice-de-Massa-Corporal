@@ -1,2 +1,2 @@
 # Calculadora de Índice de Massa Corporal
-Um aplicativo que informa se você está *abaixo* do peso, se está com o peso *normal* ou se está com *obesidade*.
+Um aplicativo que informa se você está _*abaixo*_ do peso, se está com o peso _*normal*_ ou se está com _*obesidade*_.

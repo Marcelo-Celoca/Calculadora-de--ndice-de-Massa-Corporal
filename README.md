@@ -68,14 +68,5 @@ Contribuições são sempre bem-vindas!
 
 ---
 
-✨ Desenvolvido por [Seu Nome](https://www.google.com/search?q=https://github.com/seu-usuario)
+✨ Desenvolvido por [Seu Nome](https://github.com/Marcelo-Celoca)
 
----
-
-### 💡 Dicas extras para o seu README:
-
-* **Emojis:** Usei alguns acima, eles ajudam a quebrar a monotonia do texto.
-* **GIF:** Se puder, grave um pequeno GIF usando a ferramenta [ScreenToGif](https://www.screentogif.com/) mostrando o cálculo funcionando e coloque na seção de Screenshots.
-* **Badge:** Você pode adicionar badges de status do projeto no topo para dar um ar mais profissional.
-
-**Gostaria que eu gerasse os comandos para criar um ambiente virtual (venv) e incluí-los na seção de instalação?**

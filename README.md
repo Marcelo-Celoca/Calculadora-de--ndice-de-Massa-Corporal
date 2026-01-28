@@ -1,6 +1,6 @@
 # 🚀 Calculadora de IMC com CustomTkinter
 
-Uma aplicação desktop moderna e intuitiva para cálculo de Índice de Massa Corporal (IMC), desenvolvida em Python utilizando a biblioteca **CustomTkinter** para uma interface de usuário refinada e responsiva.
+Uma aplicação desktop moderna e intuitiva para cálculo de *Índice de Massa Corporal* (IMC), desenvolvida em Python utilizando a biblioteca **CustomTkinter** para uma interface de usuário refinada e responsiva.
 
 ## ✨ Funcionalidades
 
